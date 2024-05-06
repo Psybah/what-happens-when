@@ -614,6 +614,7 @@ Browser Caching
   resources are still valid.
 
 **Considerations**
+
 * **Cache Invalidation:** It's important for web developers to manage 
   cache invalidation effectively. When a resource is updated on the server,
   mechanisms such as cache busting techniques (e.g., appending version numbers 
